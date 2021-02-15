@@ -15,11 +15,21 @@ body {
     width: 100%;
     height: auto;
  }
-<<<<<<< HEAD
- #footer {
-=======
+#profile-name {
+    text-align: center;
+}
+
+
+#footer {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: burlywood;
+    text-align: center;
+    color: white;
+ }
+
  #header {
->>>>>>> development-1.0
     width: 100%;
     height: 50px;
     line-height: 50px;
